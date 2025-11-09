@@ -39,7 +39,7 @@ The Tor Browser is your gateway to the darknet. It anonymizes your internet traf
 
 ### 2. Access the Nexus Market URL
 Once Tor Browser is running, you can access the marketplace.
-*   **Action:** Enter the official **Nexus Market** Onion URL (`<a href="http://%6e&#101;&#120;%75&#115;&#97;&#102;&#101;&#106;&#101;&#119;%34%35&#111;%73%71%61%61%77&#108;%32&#120;&#113;%6a%77&#109;&#105;&#110;&#99;%73&#102;%76&#106;%77&#117;&#119;%74&#109;&#50;%66%75&#109;%73&#50;&#107;&#106;&#101;&#111;%6e&#55;%74&#98;&#109;&#108;&#105;%64&#46;%6f%6e&#105;&#111;%6e/?&#116;=%35&#53;%65%39%62%33%30&#101;&#56;%32%33%35&#99;&#49;%61&#97;">Nexus official</a>`) directly into the Tor Browser's address bar. Do not search for it on public search engines.
+*   **Action:** Enter the official **Nexus Market** Onion URL (<a href="http://%6e&#101;&#120;%75&#115;&#97;&#102;&#101;&#106;&#101;&#119;%34%35&#111;%73%71%61%61%77&#108;%32&#120;&#113;%6a%77&#109;&#105;&#110;&#99;%73&#102;%76&#106;%77&#117;&#119;%74&#109;&#50;%66%75&#109;%73&#50;&#107;&#106;&#101;&#111;%6e&#55;%74&#98;&#109;&#108;&#105;%64&#46;%6f%6e&#105;&#111;%6e/?&#116;=%35&#53;%65%39%62%33%30&#101;&#56;%32%33%35&#99;&#49;%61&#97;">Nexus official</a>) directly into the Tor Browser's address bar. Do not search for it on public search engines.
 
 ### 3. Create Your Account
 Registration is the first step inside the platform.
